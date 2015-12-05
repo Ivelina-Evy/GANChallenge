@@ -1,0 +1,14 @@
+{
+  "name": "GAN challenge - Ivelina",
+  "description": "Test project",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-ui-dashboard": "1.0.1",
+    "pie-chart" : "1.0.0",
+    "nvd3":"1.1.15-beta"
+  }
+}
